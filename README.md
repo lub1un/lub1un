@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on LionsDev
 - 📫 How to reach me bmarcusvinicius930@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: é os 7
 
 <!---
 lub1un/lub1un is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
