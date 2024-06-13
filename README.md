@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lub1un
 - 👀 I’m interested cybersecurity
-- 🌱 I’m currently learning js/html/css
+- 🌱 I’m currently learning js/html/css/python
 - 💞️ I’m looking to collaborate on LionsDev
 - 📫 How to reach me bmarcusvinicius930@gmail.com
 - 😄 Pronouns: ele/dele
